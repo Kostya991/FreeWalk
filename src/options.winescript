@@ -1,0 +1,13 @@
+{SECTION OPTIONS}
+appname>FreeWalk<
+ver>DEV-04A-100324<
+ath>kayosbeats/wineeater<
+sizeW>640<
+sizeH>480<
+bgColor>700<
+
+left>a<
+right>d<
+jump>w<
+
+debug_mode>disabled<

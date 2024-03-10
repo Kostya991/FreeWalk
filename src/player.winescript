@@ -1,0 +1,7 @@
+{SECTION PLAYER}
+jump_height>10<
+player_X>50<
+player_Y>150<
+player_speed>7<
+player_sprite>img<
+
