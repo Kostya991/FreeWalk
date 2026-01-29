@@ -10,6 +10,6 @@
 </h3>
 
 <h3>
-  This is very silly stuff I made and i had written some stuff in Wiki, you can check out this disgrace.
+  This is very silly stuff I made and I had written some stuff in Wiki, you can check out this disgrace.
 </h3>
 
