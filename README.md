@@ -6,7 +6,7 @@
 </h1>
 
 <h3>
-  This is a test "game" written on Python using library Processing that was made to "look around" in the library and rate it whether I like it or not.
+  This is a test "game" written on Python using Processing library that was made to "look around" in the library and rate it whether I like it or not.
 </h3>
 
 <h3>
